@@ -1,0 +1,17 @@
+/* Style for the dark theme */
+.dark {
+    background-color: black; /* Set background color to black */
+    color: white; /* Set text color to white */
+}
+
+/* General container styles */
+.container {
+    height: 100vh; /* Set the container height to 100% of the viewport height */
+    padding: 15px; /* Add 15px padding inside the container */
+}
+
+/* Reset default margin and padding for all elements */
+* {
+    margin: 0; /* Remove default margin from all elements */
+    padding: 0; /* Remove default padding from all elements */
+}
